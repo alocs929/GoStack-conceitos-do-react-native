@@ -39,7 +39,7 @@ $ git clone https://github.com/alocs929/GoStack-conceitos-do-react-native.git
 $ yarn
 ```
 
-Este comando vai dar um stat no projeto baixando as dependências faltantes e criando a pasta node_modules.
+Este comando vai dar um start no projeto baixando as dependências faltantes e criando a pasta node_modules.
 
 
 **3. Start o projeto**
